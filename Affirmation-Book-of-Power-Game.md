@@ -1,5 +1,6 @@
 # new-Repository
 First repository
+Affirmation-Book-of-Power-Game
 I will be making a game about a young man who is coming into himself as he must journey on a perilous quest through-out the world and accomplish his mission. he will have many tasks to complete with rewards that boost his power on multiple levels. Spirit, emotion, energy, thought, action, manifestaion, visualization, utilization, dexterity, speed, momentum, mass, magnitude. pulse wave, are emmited and received based on player level and intent stream(effect of thought and action) affects and effects are calculated in the overall mass/volume of the game and atmosphere. Every player will effect the world with the energy they emit. The character will gain greater control of the atmosphere based on choices. also his mood cycle and level of self attribute control will be effected by the game and elements involved. psychological realationships and strain from the game. Fundamental elements scripts.
 
 character attributes:Health, Physical, Mental, Spritual, Emotional ENERETIC(a combination attribute, Base<Physical Capability+Spiritual/Health*Spiritual/Radiance) 
