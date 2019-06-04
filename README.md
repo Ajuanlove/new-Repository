@@ -19,3 +19,7 @@ Health: Overall health, factoral health. Physical balance. toxicity-Acidity Alka
 Physical, Atmosphere, Will (ability to go unscathed*time played*Damagetaken*.75Damage give+xfactor*1000) Once Will Power reaches certain Level the Ability is increased and attribute telekenisis unlocks. 
 Emotional Range:
 Boss level unlocks and blocks, Bosses attack diffeent energy levels of player.unlimited energy straines, during fight energy health gage breaks and can be repaired. Energy strain unlocks.
+
+The game that pays out at the end of the year based on how much money you put in. percentage advantage- people give me money to play the game and have an opportunity to earn credits and rewards for referral, ei, Bonus pack for people with 100 plus referrals, easter egg hints. Million dollar Easter egg winner.
+
+
